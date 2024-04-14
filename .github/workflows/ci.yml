@@ -69,6 +69,7 @@ jobs:
       if: ${{ github.ref_name == 'master' }}
       with:
         no-archives: true
+        bump-major-0: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
