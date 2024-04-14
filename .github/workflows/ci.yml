@@ -63,6 +63,8 @@ jobs:
     - run: npm run build
     - run: npm test
     - uses: codecov/codecov-action@v4
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
     - uses: prantlf/publish-release-action@v1
       if: ${{ github.ref_name == 'master' }}
       with:
