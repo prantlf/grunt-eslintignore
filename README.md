@@ -7,6 +7,8 @@
 
 Loads [`.eslintignore`] for being used in the options of [`grunt-eslint`]. Helps keeping the configuration at a single place.
 
+See [grunt-eslint-config] for reusing the whole `eslint` configuration.
+
 ## How It Works
 
 Let's say that you let all JavaScript files in your project checked as simply as possible by `eslint '**/*.js'`. You'll use `.eslintignore` to exclude generated files and build tools. This setup allows using IDE extensions with [`eslint`]. However, if you use [`grunt`] for building your project, you'll find that `grunt-eslint` doesn't use `.eslintignore`. You'd have to duplicate the ignored patterns in the [`Gruntfile`], when specifying the file patterns to check. You'll be able to reuse `.eslintignore` , when configuring the `eslint` task:
@@ -106,6 +108,7 @@ Licensed under the MIT license.
 [NPM]: https://www.npmjs.com/
 [PNPM]: https://pnpm.io/
 [Yarn]: https://yarnpkg.com/
+[grunt-eslint-config]: https://github.com/prantlf/grunt-eslint-config
 [`.eslintignore`]: https://eslint.org/docs/latest/use/configure/ignore-deprecated#the-eslintignore-file
 [`grunt-eslint`]: https://github.com/sindresorhus/grunt-eslint/
 [`eslint`]: https://eslint.org/docs/v8.x/
