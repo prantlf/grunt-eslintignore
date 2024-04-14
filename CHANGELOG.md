@@ -1,5 +1,11 @@
 # Changes
 
+## [0.1.1](https://github.com/prantlf/grunt-eslintignore/compare/v0.1.0...v0.1.1) (2024-04-14)
+
+### Bug Fixes
+
+* Remove duplicate description ([a86697a](https://github.com/prantlf/grunt-eslintignore/commit/a86697a89f9ecd0a0b1d6b71abc50f6838bc927e))
+
 ## [0.1.0](https://github.com/prantlf/grunt-eslintignore/compare/v0.0.1...v0.1.0) (2024-04-14)
 
 ### Features
