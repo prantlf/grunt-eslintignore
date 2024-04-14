@@ -1,6 +1,6 @@
 {
   "name": "grunt-eslintignore",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Loads `.eslintignore` for being used in the options of `grunt-eslint`. Helps keeping the configuration at a single place.",
   "author": {
     "name": "Ferdinand Prantl",
