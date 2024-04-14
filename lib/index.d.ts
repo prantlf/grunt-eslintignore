@@ -21,10 +21,6 @@ export interface ReadEslintIgnoreOptions {
   projectRootDir?: string
 
   /**
-   * The root directory of the current project. It's the directory with `package.json`,
-   * where `.eslintignore` is expected. It can be an absolute path or a path relative
-   * to `currentWorkingDir`.
-   * 
    * How many times will `package.json` be looked up and if not found,
    * go up to the parent directory. The default value is `10`.
    */
