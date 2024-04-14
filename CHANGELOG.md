@@ -1,5 +1,16 @@
 # Changes
 
+## [0.2.0](https://github.com/prantlf/grunt-eslintignore/compare/v0.1.1...v0.2.0) (2024-04-14)
+
+### Bug Fixes
+
+* Change debug prefix to grunt-esig ([bc4ff3a](https://github.com/prantlf/grunt-eslintignore/commit/bc4ff3a39a64e7a72391b1cc7829f2194745a27d))
+
+### BREAKING CHANGES
+
+The prefix of debug messages changed
+from grunt-escf to grunt-esig.
+
 ## [0.1.1](https://github.com/prantlf/grunt-eslintignore/compare/v0.1.0...v0.1.1) (2024-04-14)
 
 ### Bug Fixes
