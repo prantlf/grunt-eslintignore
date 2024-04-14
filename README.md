@@ -1,9 +1,9 @@
 # grunt-eslintignore
 
-[![Latest version](https://img.shields.io/npm/v/datetime-placeholder)
- ![Dependency status](https://img.shields.io/librariesio/release/npm/datetime-placeholder)
-](https://www.npmjs.com/package/datetime-placeholder)
-[![Coverage](https://codecov.io/gh/prantlf/datetime-placeholder/branch/master/graph/badge.svg)](https://codecov.io/gh/prantlf/datetime-placeholder)
+[![Latest version](https://img.shields.io/npm/v/grunt-eslintignore)
+ ![Dependency status](https://img.shields.io/librariesio/release/npm/grunt-eslintignore)
+](https://www.npmjs.com/package/grunt-eslintignore)
+[![Coverage](https://codecov.io/gh/prantlf/grunt-eslintignore/branch/master/graph/badge.svg)](https://codecov.io/gh/prantlf/grunt-eslintignore)
 
 Loads [`.eslintignore`] for being used in the options of [`grunt-eslint`]. Helps keeping the configuration at a single place.
 
