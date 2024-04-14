@@ -1,5 +1,15 @@
 # Changes
 
+## [1.0.0](https://github.com/prantlf/grunt-eslintignore/compare/v0.4.0...v1.0.0) (2024-04-14)
+
+### Chores
+
+* Bump version to 1 ([6236bcf](https://github.com/prantlf/grunt-eslintignore/commit/6236bcff7dbe7a5c5dad0027f582403e063eb34a))
+
+### BREAKING CHANGES
+
+None. Just advancing from 0 to 1.
+
 ## [0.4.0](https://github.com/prantlf/grunt-eslintignore/compare/v0.3.0...v0.4.0) (2024-04-14)
 
 ### Chores
